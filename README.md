@@ -61,7 +61,7 @@ colors, layouts, and imagination.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="https://github.com/itscatziydev/itscatziydev/blob/main/canva%20logo.png?raw=true" />
+  <img src="https://github.com/itscatziydev/itscatziydev/blob/main/canva%20logo.png?raw=true" height="48" alt="Canva" />
 </p>
 
 <p align="center">
