@@ -44,26 +44,22 @@ colors, layouts, and imagination.
 
 ---
 
-<h2 align="center">୨୧ MY TOOLKIT ୨୧</h2>
+<h2 align="center">♡ ୨୧ MY TOOLKIT ୨୧ ♡</h2>
 
 <p align="center">
-  <i>⌗ tools I use to create things ♡</i>
-</p>
-
-<h4 align="center">🩵 DEVELOPMENT</h4>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" />
-</p>
-
-<h4 align="center">🩷 DESIGN & CREATIVITY</h4>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,canva&theme=dark" />
+  ♡₊˚ 🩵・tools I use to create things・🩷 ˚₊♡
 </p>
 
 <p align="center">
-  <sub>୨୧ learning • creating • improving ୨୧</sub>
+  <img src="https://skillicons.dev/icons?i=java,php,python,css,html,vscode,github,canva,figma&theme=dark" />
+</p>
+
+<p align="center">
+  ♡₊˚ 🩵 code with logic ・ design with love 🩷 ˚₊♡
+</p>
+
+<p align="center">
+  ୨୧ ────────── ♡ ────────── ୨୧
 </p>
 
 ---
