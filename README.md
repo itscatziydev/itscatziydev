@@ -39,3 +39,31 @@ colors, layouts, and imagination.
 <p align="center">
   ♡ code with logic · design with feeling ♡
 </p>
+
+
+
+---
+
+<h2 align="center">୨୧ MY TOOLKIT ୨୧</h2>
+
+<p align="center">
+  <i>⌗ tools I use to create things ♡</i>
+</p>
+
+<h4 align="center">🩵 DEVELOPMENT</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" />
+</p>
+
+<h4 align="center">🩷 DESIGN & CREATIVITY</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,canva&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>୨୧ learning • creating • improving ୨୧</sub>
+</p>
+
+---
