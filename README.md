@@ -45,7 +45,7 @@ colors, layouts, and imagination.
 
 ---
 
-<h2 align="center">♡ ୨୧ MY TOOLKIT ୨୧ ♡</h2>
+<h2 align="center"> ୨୧ MY TOOLKIT ୨୧ </h2>
 
 <p align="center">
   <i>♡ ⌗ tools I use to create things ⌗ ♡</i>
