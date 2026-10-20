@@ -27,12 +27,12 @@ technology with visual creativity.
 colors, layouts, and imagination.
 
 ୨୧ Always learning, creating, and growing.
+    </td>
 
+  <td width="30%" align="center" valign="middle">
+      <img src="https://github.com/itscatziydev/itscatziydev/blob/main/%E2%80%94Pngtree%E2%80%94pixel-style%20fishing%20cat_24632859.png?raw=true" width="140">
     </td>
-    <td width="30%" align="center" valign="middle">
-      <!-- Pixel cat will go here later -->
-      😹
-    </td>
+   
   </tr>
 </table>
 
