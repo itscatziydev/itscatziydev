@@ -51,21 +51,21 @@ colors, layouts, and imagination.
   <i>♡ ⌗ tools I use to create things ⌗ ♡</i>
 </p>
 
-<h4 align="center">🩵 ♡ DEVELOPMENT ♡ 🩵</h4>
+<h4 align="center">🩵 DEVELOPMENT 🩵</h4>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,python,js,html,css,vscode,github&theme=dark" />
 </p>
 
-<h4 align="center">🩷 ♡ DESIGN & CREATIVITY ♡ 🩷</h4>
+<h4 align="center">🩷 DESIGN & CREATIVITY 🩷</h4>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva logo" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="https://github.com/itscatziydev/itscatziydev/blob/main/canva%20logo.png?raw=true" />
 </p>
 
 <p align="center">
-  <sub>♡ 🩵 learning · creating · improving 🩷 ♡</sub>
+  <sub>♡ learning · creating · improving ♡</sub>
 </p>
 
 <p align="center">
